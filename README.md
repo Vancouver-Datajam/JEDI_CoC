@@ -1,2 +1,3 @@
-# JEDI_plans
-Justice, Equity, Diversity, and Inclusion plans and content
+Vancouver DataJam & Justice, Equity, Diversity, and Inclusion (JEDI)
+
+This README will be replaced with our JEDI statement soon.
