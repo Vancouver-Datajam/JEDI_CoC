@@ -1,0 +1,62 @@
+---
+title: "2022 Event Mandate, JEDI, and Code of Conduct"
+author: "Vancouver DataJam 2022"
+project:
+  type: website
+  output-dir: docs
+toc: true
+---
+
+## EVENT MANDATE 
+
+1. Foster a beginner friendly environment that is encouraging and accessible to all. 
+1. Increase visibility and introduce underrepresented people into data science and technology.
+1. Build confidence of gender minorities* who are prospective data scientists and introduce them to R and Python.
+1. Network and facilitate communication between various local gender minority-oriented coding groups in BC.
+
+\* Gender minorities include but not limited to folks who identify as cis women, trans women and men, non-binary, genderqueer, agender, and those whose gender identify intersect with other identities that further marginalize them in society.
+
+## JUSTICE, EQUITY, DIVERSITY, AND INCLUSION (JEDI) STATEMENT
+
+We, the Vancouver Datajam organizing committee, recognizes the systemic injustices, racism, and sexism people have faced in data science and technology fields due to their identities, including, but not limited to, racial, cultural, and gender identities. We are committed to continue learning about these social injustices and improve our practices to make our event more just, equitable, diverse, and inclusive. In order to amplify the voices of underrepresented people and gender minorities that exist in our field, we are committed to increasing the diversity of our organizing committee and workshop facilitators and to create a space that is inclusive to all participants, especially those that are underrepresented in our community. We will ensure gender minorities and people of different physical abilities are able to access an attend our events.  We will continually update our event mandates and code of conduct to reflect our commitment to JEDI through listening to our community members and actively seeking our new methods of improvement. 
+
+## CODE OF CONDUCT
+
+**Code of conduct policies are a set of guidelines and rules that help outline what kinds of behaviours and acts are not appropriate for an event. By attending the event you agree to abide by these policies that allow for the safety of all those present, both in person and online.**
+
+The Vancouver Datajam is dedicated to providing a respectful, harassment-free community for everyone. We do not tolerate harassment or bullying of any community member in any form. This does not only extend to members of the Vancouver Datajam communities, but to anyone who chooses to become involved in the larger Vancouver Datajam community of users, developers and integrators through events or interactions.
+
+No harassment (sexual or otherwise) or other inappropriate behaviour will be tolerated. No gender policing or outing someone without their consent will also be considered a Code of Conduct violation. Hate speech including but not limited to: racist, misogynistic, homophobic, anti-Muslim, anti-Semitic, transphobic, and ableist rhetoric is not allowed. This includes statements that advocate sexual abuse or violence. Participants asked to stop any harassing or bullying behavior are expected to comply immediately.
+
+Our formal definition of harassment includes: offensive verbal/electronic comments related to personal characteristics or choices, sexual images or comments in public or online spaces, deliberate intimidation, bullying, stalking, following, harassing photography or recording, sustained disruption of talks, Slack or other private chats, electronic meetings, physical meetings or other events, inappropriate physical contact, or unwelcome sexual attention.
+
+If a participant engages in harassing behavior, representatives of the community will take reasonable action they deem appropriate, including warning the offender, expulsion from the Vancouver Datajam and future event, removal from Slack and online meetings, removal from mailing lists, and other electronic communications channels to resolve the issue. This may include expulsion from the Vancouver Datajam events entirely.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please act to intercede or ask for help from any member of the the Vancouver Datajam community, associated groups, volunteers, event staff, website admins, or organizers/representatives of any physical events put on under the auspices of the Vancouver Datajam.
+
+Overall, we want people to feel safe and encouraged at the event and believe it will bring out the best of each other to do so. To work collaboratively with others and see the benefits of diversity will create a better experience as a whole. Please be considerate of your words and actions. 
+This Code of Conduct has been adapted from the [Plone Foundation](https://plone.org/foundation/materials/foundation-resolutions/code-of-conduct) and is licensed under a [Creative Commons Attribution-Share Alike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/).
+
+## ONLINE ETIQUETTE
+
+As we provide both virtual and in-person events this year, we urge participants to be thoughtful regarding the information they share and interactions with individuals. 
+
+General examples of online behaviour considered in violation of our code of conduct include (applicable to private and public platforms): 
+
+* Name calling & offensive text and imagery
+* Continued solicitation of personal information
+* Passive aggressive behaviours
+* Online and offline stalking
+* Condescending behaviours and controlling attitudes not conducive  to the event mandate and environment
+
+Things you can do to protect yourself: 
+
+* Know who is on the committee and the external code of conduct members ahead of time
+* Do not give out revealing personal information 
+* Report incidents immediately 
+* Where possible, take screenshots and list all possible details surrounding an incident 
+
+## REPORTING PROCEDURES
+
+**Through our formal reporting procedure, you can report any questionable or uncomfortable behaviour that is in violation of our code of conduct. All reporters have the right to privacy and request anonymity.** 
+
+By going through our general reporting procedure, your report will be forwarded to all active committee members and in special cases, venue representatives. **To submit a general inquiry please send an email with the title “Incident Report” to vancouverdatajam [at] gmail [dot] com.**
